@@ -1,0 +1,12 @@
+{
+ "name": "workspace",
+ "hostname": "localhost:30015",
+ "systemid": "IMB",
+ "user": "USER1",
+ "key": "",
+ "client_format_version": "1.0.0",
+ "trackedPackages": [],
+ "instance": "0",
+ "tenantdb": "p1942986664trial-mydatabase",
+ "dbtype": "tenantdb"
+}

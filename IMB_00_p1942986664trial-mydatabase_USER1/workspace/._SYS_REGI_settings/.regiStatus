@@ -1,0 +1,36 @@
+{
+ "name": "",
+ "filenames": [
+  {
+   "filename": "HelloWorld/.project",
+   "filesize": "1053",
+   "timest": "2017-10-15 19:29:38.778 UTC",
+   "sha1value": "3265351862.1099741867.3018119620.2571170380.3473088316"
+  },
+  {
+   "filename": "HelloWorld/.xsaccess",
+   "filesize": "456",
+   "timest": "2017-10-15 19:29:38.761 UTC",
+   "sha1value": "1348751390.2463322812.2320056643.3029313931.3963991976"
+  },
+  {
+   "filename": "HelloWorld/.xsapp",
+   "filesize": "0",
+   "timest": "2017-10-15 19:29:38.762 UTC",
+   "sha1value": "3661210606.1584089869.844480495.2506102928.2950170377"
+  },
+  {
+   "filename": "HelloWorld/MyFirstSourceFile.xsjs",
+   "filesize": "501",
+   "timest": "2017-10-15 20:29:11.72 UTC",
+   "sha1value": "1590713346.2121627541.1152004006.232723913.2544242483"
+  },
+  {
+   "filename": "HelloWorld/.settings/.jsdtscope",
+   "filesize": "403",
+   "timest": "2017-10-15 19:29:38.643 UTC",
+   "sha1value": "3092348289.1514320135.2527355164.1195235312.3359712394"
+  }
+ ],
+ "conflicts": []
+}
